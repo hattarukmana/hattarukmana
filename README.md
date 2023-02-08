@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hattarukmana
-- 👀 I’m interested in Front End Engineer
-- 🌱 I’m currently learning HTML 5 and CSS 3
-- 💞️ I’m looking to collaborate on UI/UX and Frond End Engineer
+- 👀 I’m interested in Fullstack Engineer
+- 🌱 I’m currently learning Frontend
+- 💞️ I’m looking to collaborate on UI/UX and WordPress Developer
 - 📫 How to reach me? DM on instagram @hattarukmana
 
 <!---
